@@ -22,17 +22,14 @@ This project automates the process of adding events to Google Calendar using the
 
 ### Installation
 
-1. **Clone the Repository**:
-
+1. **Clone the Repository**
 2. **Install Dependencies**:
 (or use the package manager appropriate for your project)
-
 3. **Set Up Authentication**:
 - Follow the [Google Calendar API Quickstart](https://developers.google.com/calendar/quickstart) to set up OAuth 2.0 credentials.
 - Place the `credentials.json` file in the root of your project.
-
 4. **Run the Project**:
-
+  
 ## Usage
 
 - **Add Event**: Describe how to use the project to add events.
@@ -48,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or issues, please open an issue on GitHub or contact me at your.email@example.com.
+For questions or issues, please open an issue on GitHub or contact me at er.nishchaldwivedi@gmail.com.
